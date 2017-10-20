@@ -1,0 +1,40 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge # changed from `pygments` as github says so
+version: 0.1
+
+# Exclude
+exclude: [vendor]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'machinelearning'
+tagline:          'medium.com'
+description:      'Data Scientist @ Practo'
+url:              http://machinelearningmedium.com
+baseurl:          ''
+paginate:         5
+paginate_path:    '/page:num/'
+
+author:
+  name: 'Shams S'
+  email: 'shams.sam[at]live[dot]com'
+  github: shams-sam
+  facebook: shams.sam
+  linkedin: shams-sheikh-20328154
+  linkedin_link: 'https://www.linkedin.com/in/shams-sheikh-20328154'
+  kaggle_link: 'https://www.kaggle.com/shamssam'
+  # goodreads: pesteadman
+  # orcid: http://orcid.org/0000-0002-5814-4977
+  # google_scholar: http://scholar.google.ca/citations?user=Xrn76pEAAAAJ
+  email_md5: e80c5b21385766bf50801c83bc0261a1
+  emailalt_md5: acfd20c63086af9bd20ff8a34f8417f0
+  disqus_shortname: shams-sam
+  # google_analytics_id: UA-27104497-1
+  # google_analytics_url: 
+  bio: Data Scientist @ Practo
+
+github:
+  repo: shams-sam/shams-sam.github.io
