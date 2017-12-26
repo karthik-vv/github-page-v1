@@ -10,19 +10,19 @@ exclude: [vendor]
 permalink:        pretty
 
 # Setup
-title:            'machinelearning'
-tagline:          'medium.com'
-description:      'Data Scientist @ Practo'
-url:              http://machinelearningmedium.com
+title:            'karthik-vv'
+tagline:          '.github.io'
+description:      'Software Engineer @ Practo'
+url:              https://karthik-vv.github.io
 baseurl:          ''
 paginate:         5
 paginate_path:    '/page:num/'
 
 author:
-  name: 'Shams S'
-  email: 'shams.sam[at]live[dot]com'
-  github: shams-sam
-  facebook: shams.sam
+  name: 'Karthik VV'
+  email: 'karthikvv2693[at]gmail[dot]com'
+  github: karthik-vv
+  facebook: vvkarthik.alien
   linkedin: shams-sheikh-20328154
   linkedin_link: 'https://www.linkedin.com/in/shams-sheikh-20328154'
   kaggle_link: 'https://www.kaggle.com/shamssam'
@@ -34,7 +34,7 @@ author:
   disqus_shortname: shams-sam
   # google_analytics_id: UA-27104497-1
   # google_analytics_url: 
-  bio: Data Scientist @ Practo
+  bio: Software Engineer @ Practo
 
 github:
-  repo: shams-sam/shams-sam.github.io
+  repo: karthik-vv/karthik-vv.github.io
